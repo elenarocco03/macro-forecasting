@@ -1,6 +1,7 @@
 # High-Dimensional Macroeconomic Forecasting
 
 **Author:** Elena Rocco
+
 This project — originally developed as part of my Big Data Applications coursework at the University of Bologna — is inspired by a forecasting exercise by De Mol, Giannone & Reichlin (2008). It compares eight forecasting models for one-step-ahead prediction of US industrial production and inflation: autoregressive models, Ridge, Lasso, and Principal Component Regression.
 
 A full write-up is in `report/report.pdf`.
